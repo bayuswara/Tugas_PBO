@@ -10,7 +10,7 @@
 ![Alt Text](https://github.com/bayuswara/Tugas_PBO/blob/master/Sepeda_Motor.png)
 # Method yang dipanggil adalah "merk" dan "nama" 
 # Tugas Exskplorasi
-![Alt Text](https://github.com/bayuswara/Tugas_PBO/blob/master/Kelompok%20part%201.png)
+![Alt Text](https://github.com/bayuswara/Tugas_PBO/blob/master/Praktikum%20part_1.png)
 # Tugas Praktikum
 ![Alt Text](https://github.com/bayuswara/Tugas_PBO/blob/master/Luas%20Permukaan%20Balok.png)
 # Tugas Praktikum_2
